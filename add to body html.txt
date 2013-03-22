@@ -1,0 +1,3 @@
+<div align="center">
+// Flash object goes here.
+</div>
